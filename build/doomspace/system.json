@@ -1,0 +1,51 @@
+{
+  "id": "doomspace",
+  "title": "Doomspace",
+  "description": "Doomspace is the void. Doomspace is anywhere outside of the known worlds. You can meet your doom anywhere within or outside of “The Garden,” a 6-parsec-radius region of the galaxy where sentient humanoid species thrive. This is where your story will start. Depending on the calendar you consult, it is either the year 4666, 1349, 2069, or somewhere in the 21st millennium depending on whether you’re using the Galactic Common, Drakhanic, Xhouban, or Ba’atori calendar. However you measure it, you are in the Dumbest Timeline.",
+  "authors": [
+    {
+      "name": "Bhagwan Sri Sri Kevin",
+      "discord": "troglobite"
+    },
+    {
+      "name": "Grubnegrab",
+      "discord": "Kalessin"
+    }
+  ],
+  "url": "https://github.com/FeydakinJedi/doomspacefvtt/",
+  "license": "LICENSE.txt",
+  "readme": "README.md",
+  "bugs": "https://en.wikipedia.org/wiki/Insect",
+  "changelog": "CHANGELOG.md",
+  "media": [
+    {
+      "type": "setup",
+      "url": "systems/doomspace/assets/anvil-impact.png",
+      "thumbnail": "systems/doomspace/assets/anvil-impact.png"
+    }
+  ],
+  "version": "2.0.0",
+  "compatibility": {
+    "minimum": 11,
+    "verified": "11.315"
+  },
+  "esmodules": ["module/doomspace.mjs"],
+  "styles": ["css/doomspace.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [],
+  "packFolders": [],
+  "socket": false,
+  "manifest": "https://github.com/FeydakinJedi/doomspacefvtt/blob/main/system.json",
+  "download": "https://github.com/FeydakinJedi/doomspacefvtt/archive/refs/heads/main.zip",
+  "background": "systems/doomspace/assets/anvil-impact.png",
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": ""
+}
